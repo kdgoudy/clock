@@ -1,9 +1,14 @@
-
 body{
- background: url("https://i.imgur.com/sOKZbBw.jpg");
- 
-  
+ background-image: url("https://i.imgur.com/sJNEFvN.jpg");
+ background-repeat: no repeat;
+ background-size: cover;
 }
+
+h1 {
+ color: white;
+ font-size: 55px;
+}
+
 .clock {
   position: absolute;
   top: 50%;
